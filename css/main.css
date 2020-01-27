@@ -1,0 +1,17 @@
+body {
+  background: whitesmoke;
+}
+
+/* ----------- Tablets larger than 768px wide ----------- */
+@media screen and (min-width: 768px) {
+  body {
+    background: #333;
+  }
+}
+
+/* ----------- Monitors larger than 1200px wide ----------- */
+@media screen and (min-width: 1200px) {
+  body {
+    background: #ffc934;
+  }
+}
